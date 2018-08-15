@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodDeliveryTestV1</string>
+    <string name="rendelesefelvetel">Rendelés felvétel</string>
+    <string name="title_activity_navigator_main">NavigatorMainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
